@@ -2,13 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>/categories/</loc>
+    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/blank/</loc>
+    <loc>/categories/daily/</loc>
+    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/vintage/</loc>
+    <loc>/posts/</loc>
+    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/experience/</loc>
+    <loc>/</loc>
+    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/data_migration/</loc>
+    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/docs/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
@@ -43,17 +50,11 @@
     <loc>/docs/modern-operating-systems/nested-chapter/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/docs/modern-operating-systems/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/docs/computer-networking/</loc>
     <lastmod>2020-10-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/categories/</loc>
-    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/css/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
@@ -65,9 +66,6 @@
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/markdown/</loc>
-    <lastmod>2022-03-16T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/series/</loc>
@@ -85,12 +83,21 @@
     <loc>/series/themes-guide/</loc>
     <lastmod>2022-03-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+    <loc>/posts/english-preview/</loc>
+    <lastmod>2019-04-01T14:26:00+08:00</lastmod>
+  </url><url>
+    <loc>/tags/english/</loc>
+    <lastmod>2019-04-01T14:26:00+08:00</lastmod>
+  </url><url>
+    <loc>/tags/theme/</loc>
+    <lastmod>2019-04-01T14:26:00+08:00</lastmod>
+  </url><url>
+    <loc>/posts/theme-preview/</loc>
+    <lastmod>2019-03-31T17:49:40+08:00</lastmod>
   </url><url>
     <loc>/about/</loc>
+    <lastmod>2018-12-29T20:24:28+08:00</lastmod>
   </url><url>
-    <loc>/authors/example-author/</loc>
-  </url><url>
-    <loc>/authors/hugo-authors/</loc>
+    <loc>/authors/</loc>
   </url>
 </urlset>

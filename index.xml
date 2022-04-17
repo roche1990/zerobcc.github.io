@@ -1,46 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zerobc</title>
+    <title>Zero</title>
     <link>/</link>
-    <description>Recent content on Zerobc</description>
+    <description>Recent content on Zero</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 16 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh</language>
+    <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Example Author</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>数据迁移</title>
+      <link>/posts/data_migration/</link>
+      <pubDate>Sun, 13 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Self Introduction Cras ex dui, tristique a libero eget, consectetur semper ligula. Nunc augue arcu, malesuada a nisi et, molestie finibus metus. Sed lacus odio, ultricies a nisl vitae, sollicitudin tempor ipsum. Vivamus quis feugiat arcu. Sed mi nunc, efficitur quis tellus vitae, posuere mattis metus. Phasellus in mattis dui. Nullam blandit, augue non ullamcorper dapibus, lacus dui molestie massa, in iaculis purus lectus eu lectus. Duis hendrerit lacinia tellus, sit amet feugiat dolor placerat id.</description>
-    </item>
-    
-    <item>
-      <title>Blank</title>
-      <link>/blank/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/blank/</guid>
-      <description>KEEP MOVING</description>
-    </item>
-    
-    <item>
-      <title>Vintage</title>
-      <link>/vintage/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/vintage/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>经历</title>
-      <link>/experience/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/experience/</guid>
-      <description></description>
+      <guid>/posts/data_migration/</guid>
+      <description>&lt;p&gt;趁着假期，尤其是域名到期，重新整理了一下blog&lt;/p&gt;
+&lt;p&gt;主要是想找低成本、易于维护的方案解决此问题。找了一些hexo、Hugo&lt;/p&gt;
+&lt;p&gt;发现Hugo支持文档模式，于是重新整理了一波，将之前的数据迁移过来&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -123,6 +98,41 @@
       <guid>/posts/first-post/</guid>
       <description>Blockquotes
 The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a footer or cite element, and optionally with in-line changes such as annotations and abbreviations.</description>
+    </item>
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>/posts/english-preview/</link>
+      <pubDate>Mon, 01 Apr 2019 14:26:00 +0800</pubDate>
+      
+      <guid>/posts/english-preview/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Theme Preview</title>
+      <link>/posts/theme-preview/</link>
+      <pubDate>Sun, 31 Mar 2019 17:49:40 +0800</pubDate>
+      
+      <guid>/posts/theme-preview/</guid>
+      <description>&lt;h1 id=&#34;headings&#34;&gt;Headings&lt;/h1&gt;
+&lt;pre&gt;&lt;code class=&#34;language-markdown&#34;&gt;# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+&lt;/code&gt;&lt;/pre&gt;</description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>/about/</link>
+      <pubDate>Sat, 29 Dec 2018 20:24:28 +0800</pubDate>
+      
+      <guid>/about/</guid>
+      <description>Hugo 官方主页: https://gohugo.io/ Hugo的安装方式有两种，一种是直接下载编译好的Hugo二进制文件。如果只是使用Hugo推荐用这种方式。另一种方式是获取Hugo的源码，</description>
     </item>
     
   </channel>
