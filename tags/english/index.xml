@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>English on Zero</title>
+    <title>English on Blog</title>
     <link>/tags/english/</link>
-    <description>Recent content in English on Zero</description>
+    <description>Recent content in English on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Mon, 01 Apr 2019 14:26:00 +0800</lastBuildDate><atom:link href="/tags/english/index.xml" rel="self" type="application/rss+xml" />

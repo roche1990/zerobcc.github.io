@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>daily on Zero</title>
+    <title>daily on Blog</title>
     <link>/categories/daily/</link>
-    <description>Recent content in daily on Zero</description>
+    <description>Recent content in daily on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
     <lastBuildDate>Sun, 13 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/daily/index.xml" rel="self" type="application/rss+xml" />
@@ -15,8 +15,7 @@
       <guid>/posts/data_migration/</guid>
       <description>&lt;p&gt;趁着假期，尤其是域名到期，重新整理了一下blog&lt;/p&gt;
 &lt;p&gt;主要是想找低成本、易于维护的方案解决此问题。找了一些hexo、Hugo&lt;/p&gt;
-&lt;p&gt;发现Hugo支持文档模式，于是重新整理了一波，将之前的数据迁移过来&lt;/p&gt;
-&lt;p&gt;多次迁移数据2022&lt;/p&gt;</description>
+&lt;p&gt;发现Hugo支持文档模式，于是重新整理了一波，将之前的数据迁移过来&lt;/p&gt;</description>
     </item>
     
   </channel>
